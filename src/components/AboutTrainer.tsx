@@ -12,21 +12,21 @@ export function AboutTrainer() {
           {/* Content */}
           <div className="flex flex-col gap-6">
             <div>
-              <p className="text-accent font-semibold text-sm uppercase tracking-wide">О наставнике</p>
+              <p className="text-accent font-semibold text-sm uppercase tracking-wide">О курсе</p>
               <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2 text-balance">
-                Ваш коуч по успеху в VA
+                Нейроконтент — навык будущего
               </h2>
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Более 10 лет опыта в виртуальном ассистировании и бизнес-операциях. Я помогла сотням
-              специалистов освоить навыки, необходимые для успеха в этой динамичной сфере.
+              Закрытый канал с практическим обучением по созданию нейроконтента. Изучи актуальные
+              AI-инструменты и начни генерировать контент, который работает — для бизнеса, соцсетей или фриланса.
             </p>
 
             <p className="text-muted-foreground leading-relaxed">
-              Моя экспертиза охватывает административный менеджмент, коммуникацию с клиентами, координацию
-              проектов и владение цифровыми инструментами. Опыт работы с компаниями Fortune 500 и стартапами
-              дает мне уникальное понимание того, что действительно ценят работодатели.
+              Курс подходит как для полных новичков, так и для тех, кто уже работает с нейросетями
+              и хочет выйти на новый уровень. Учись в своём темпе — доступ к материалам бессрочный,
+              а поддержка доступна круглосуточно.
             </p>
 
             <div className="space-y-4 pt-4">
@@ -35,8 +35,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Сертифицированный коуч VA</p>
-                  <p className="text-sm text-muted-foreground">Признание лидерами отрасли</p>
+                  <p className="font-semibold text-foreground">Закрытый канал</p>
+                  <p className="text-sm text-muted-foreground">Эксклюзивные материалы и сообщество</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -44,8 +44,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">500+ выпускников</p>
-                  <p className="text-sm text-muted-foreground">95% карьерного роста</p>
+                  <p className="font-semibold text-foreground">Доступ навсегда</p>
+                  <p className="text-sm text-muted-foreground">Все обновления курса включены</p>
                 </div>
               </div>
               <div className="flex gap-3">
@@ -53,8 +53,8 @@ export function AboutTrainer() {
                   <span className="text-accent text-sm">&#10003;</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground">Персональный подход</p>
-                  <p className="text-sm text-muted-foreground">Адаптация под ваши цели</p>
+                  <p className="font-semibold text-foreground">Обратная связь 24/7</p>
+                  <p className="text-sm text-muted-foreground">Поддержка на каждом шагу</p>
                 </div>
               </div>
             </div>
